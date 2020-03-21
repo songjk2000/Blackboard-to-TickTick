@@ -1,4 +1,4 @@
-# Automatically add new assignment task on Blackboard to TickTick todo-list.
+# Automatically add new assignment task on Blackboard to TickTick todo-list with subject, content and DDL.
 ## 将 Blackboard 教学平台上的作业任务，同步到滴答清单（TickTick）待办任务中（包括作业科目、详情、到期时间）
 ## 配置
 若为上海外国语大学（Shanghai International Studies University, SISU)，则直接填写 main.py 中两个平台的账号密码即可
